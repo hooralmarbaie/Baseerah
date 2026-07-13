@@ -40,7 +40,9 @@ Input → Text Extraction → AI Verification → Text Processing → Rule-Based
 
 ## Demo
 
-A demonstration video of the project is available in this repository.
+Project demonstration:
+
+[Watch Demo](demo.mp4)
 
 
 ## Note
